@@ -33,10 +33,7 @@
 ### 代码块
 
 ```c
-        #include<stdio.h>
-
-        int main(void)
-        {
+        #include<stdio.h>        {
                 return 0;
         }
 
@@ -51,4 +48,4 @@
 ### 超链接
 [百度搜索](https://www.baidu.com "点我就给你一嘴巴")
 
-![xue.jpg](https://youke1.picui.cn/s1/2025/09/12/68c413785ac48.jpg)
+![xue.jpg](https://img.cdn1.vip/i/68ca64a744df0_1758094503.webp)
